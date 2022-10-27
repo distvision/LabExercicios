@@ -1,0 +1,28 @@
+h1 {
+  font-family: "Pacifico", cursive;
+  font-size: 2rem;
+  font-weight: 400;
+}
+
+input {
+  padding: 10px;
+}
+
+button {
+  padding: 10px;
+  background-color: green;
+  color: white;
+  border: 1;
+}
+
+p {
+  font-family: Verdana, sans-serif;
+}
+
+span {
+  background: yellow;
+}
+
+strong {
+  color: black;
+}
